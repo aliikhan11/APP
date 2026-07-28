@@ -1,0 +1,4 @@
+streamlit>=1.30,<2
+checkdmarc>=5.15,<6
+dnspython>=2.6,<3
+reportlab>=4.0,<5
